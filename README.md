@@ -52,7 +52,7 @@ RedBlackTree.cpp
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. Nodes are inserted following **BST rules**
 2. Every new node is initially colored **RED**
@@ -64,7 +64,7 @@ RedBlackTree.cpp
 
 ---
 
-## 🧪 Sample Input
+##  Sample Input
 
 ```cpp
 tree.insert(10);
@@ -76,7 +76,7 @@ tree.insert(35);
 
 ---
 
-## 📤 Sample Output
+##  Sample Output
 
 ```
 Inorder traversal (with colors):
@@ -87,7 +87,7 @@ Inorder traversal (with colors):
 
 ---
 
-## ⏱️ Time & Space Complexity
+##  Time & Space Complexity
 
 | Operation | Time Complexity | Space Complexity |
 | --------- | --------------- | ---------------- |
